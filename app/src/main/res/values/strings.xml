@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">activity_test</string>
+    <string name="activity2">启动Activity2</string>
+    <string name="actovity1">返回Actovity1</string>
+</resources>
